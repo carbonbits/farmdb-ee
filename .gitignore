@@ -1,5 +1,6 @@
 farm.db
 
 *.pyc
+farmdb.egg-info
 
 .env
